@@ -24,7 +24,7 @@ O projeto foi feito em python
 The project was done with python
 
 
-<img src="tela.png" alt="page-home">
+<img src="iaa.gif" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
