@@ -17,7 +17,7 @@ problema de permutação de terrenos
 ## Sintaxe para executar:
 <pre>streamlit run streamlit.py </pre>
 
-
+ 
 O projeto foi feito em python
 
 
